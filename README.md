@@ -1,2 +1,2 @@
 # subrepotest2
-edited 2
+edited 3
